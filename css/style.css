@@ -1,1 +1,4 @@
 /* Add CSS theme overrides here. */
+h2 {
+  color: red;
+}
